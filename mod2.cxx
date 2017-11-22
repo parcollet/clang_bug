@@ -1,3 +1,4 @@
+#define register
 #include <string>
 #include <Python.h>
 
